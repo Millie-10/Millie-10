@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **projects that would help me improve my skills and experience.**
 
-- 🤝 Soft Skills **Attention to details, great communication skills, proactive and great sense of initiative.**
+- 🤝 Soft Skills **I pay attention to details, I have great communication skills, I am proactive and I have a great sense of initiative.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
