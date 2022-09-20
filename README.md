@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Python and PowerBi for Data Analysts**
 
-- 👯 I’m looking to collaborate on **projects that would help me improve my skills and experience.**
+- 👯 I’m looking to collaborate on **projects that would help me improve in my skills and experience.**
 
 - 🤝 Soft Skills **I pay attention to details, I have great communication skills, I am proactive and I have a great sense of initiative.**
 
