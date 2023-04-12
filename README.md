@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Millicent</h1>
 <h3 align="center">A passionate Data Analyst from Nigeria.</h3>
 
-- 🔭 I currently use **tools like Excel, Google Sheets, Google bigQuery, MySQL, PowerBi, Tableau and R.**
+- 🔭 I currently use **tools like Excel, Google Sheets, Google bigQuery, MySQL, PowerBi, Tableau, Python and R.**
 
 - 🌱 I’m currently learning **Python and PowerBi for Data Analysts**
 
