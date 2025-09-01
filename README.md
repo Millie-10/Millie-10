@@ -1,13 +1,22 @@
 <h1 align="center">Hi 👋, I'm Millicent</h1>
-<h3 align="center">A passionate Data Analyst from Nigeria.</h3>
+<h3 align="center">A passionate Data Analyst and Automation Specialist from Nigeria.</h3>
 
-- 🔭 I currently use **tools like Excel, Google Sheets, Google bigQuery, MySQL, PowerBi, Tableau, Python and R.**
+<h2 align="center"> 💡 What I Do</h2>h2>
+I help businesses turn messy data and manual processes into clean, scalable systems.
+My work blends data analysis with smart automation using tools like:
 
-- 🌱 I’m currently learning **Python and PowerBi for Data Analysts**
+- Excel, Google Sheets, BigQuery, MySQL, Power BI, Tableau, Python, R
+- n8n, Airtable, Notion, OpenAI, and other low-code platforms
 
-- 👯 I’m looking to collaborate on **projects that would help me improve in my skills and experience.**
+## 🔧 Current Focus
+I'm building intelligent workflows with n8n—automating email management, chatbot flows, voice bots, and multi-platform integrations.
+I love designing systems that *think ahead* and make work feel effortless.
 
-- 🤝 Soft Skills **I pay attention to details, I have great communication skills, I am proactive and I have a great sense of initiative.**
+## 🤝 Let's Collaborate
+I'm open to projects that challenge me and help me grow—whether it's data storytelling, workflow design, or building AI-powered agents.
+
+## 🧠 Soft Skills
+Team player • Strong communicator • Proactive • Creative problem-solver
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
