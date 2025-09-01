@@ -9,11 +9,11 @@ My work blends data analysis with smart automation using tools like:
 - n8n, Airtable, Notion, OpenAI, and other low-code platforms
 
 ## 🔧 Current Focus
-I'm building intelligent workflows with n8n—automating email management, chatbot flows, voice bots, and multi-platform integrations.
+I'm building intelligent workflows with n8n automating email management, chatbot flows, voice bots, and multi-platform integrations.
 I love designing systems that *think ahead* and make work feel effortless.
 
 ## 🤝 Let's Collaborate
-I'm open to projects that challenge me and help me grow—whether it's data storytelling, workflow design, or building AI-powered agents.
+I'm open to projects that challenge me and help me grow whether it's data storytelling, workflow design, or building AI-powered agents.
 
 ## 🧠 Soft Skills
 Team player • Strong communicator • Proactive • Creative problem-solver
