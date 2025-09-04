@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Millicent</h1>
-<h3 align="center">A passionate Data Analyst and Automation Specialist from Nigeria.</h3>
+<h3 align="center">A passionate Data Analyst and AI Automation Specialist from Nigeria.</h3>
 
 <h2> 💡 What I Do</h2>h2>
 I help businesses turn messy data and manual processes into clean, scalable systems.
